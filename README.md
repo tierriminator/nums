@@ -1,4 +1,6 @@
-# nums
+# nums (inactive)
+
+Since Swift now provides its own numerical library (Swift Numerics)[https://github.com/apple/swift-numerics], this project is no longer active. Instead I suggest to contribute to Swift Numerics directly.
 
 ## Description
 
